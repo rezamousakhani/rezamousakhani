@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any projects<br>🤝 I’m looking for help with good people<br>🌱 I’m currently learning PHP<br>
+👯 I’m looking to collaborate on any projects<br>🤝 I’m looking for help with good people<br>
 
 
 ## 🌐 Socials:
